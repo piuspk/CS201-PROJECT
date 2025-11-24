@@ -1,16 +1,8 @@
 # CS201-PROJECT
 ## Applications & Implementation of Zip Tree and Bloom Filter.
 
-## Group members: 
-Vavadiya Harsh 2021CSB1139
-Patel Het 2021CSB1119
-Ayush Sahu 2021CSB1077
-
-**Instructor:**
-Dr. Anil Shukla
-
-**Mentoring Teaching Assistant:**
-Vinay Sir
+## Developer: 
+Piyush Kumar
 
 APPLICATIONS & IMPLEMENTATION OF ZIP TREE AND BLOOM FILTER
 
